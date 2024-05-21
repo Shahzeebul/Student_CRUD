@@ -11,7 +11,6 @@ CREATE TABLE Student (
     Name VARCHAR(50) NOT NULL,
     Age INT,
     Course VARCHAR(50),
-    
     Email VARCHAR(100),
     Password VARCHAR(50)
 );
